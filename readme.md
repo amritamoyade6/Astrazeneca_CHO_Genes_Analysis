@@ -39,7 +39,7 @@ This project was conducted in collaboration with AstraZeneca to analyze RNA-seq 
 We’ve bundled all of the intermediate analysis files (FIMO outputs, MEME summaries, DNABERT embeddings, etc.) into the **v1.0** release. To fetch and unpack them, run:
 
 ```bash
-wget https://github.com/amritamoyade6/Projects/releases/download/v1.0/processed_outputs.zip
+wget https://github.com/amritamoyade6/Astrazeneca_CHO_Genes_Analysis/releases/download/v1.0/processed_outputs.zip
 unzip processed_outputs.zip -d Astrazeneca_CHO_Analysis/data/processed/
 ```
 
