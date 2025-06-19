@@ -1,0 +1,31 @@
+# Core bioinformatics & sequence handling
+biopython
+
+# Numerical & data manipulation
+numpy
+pandas
+scipy
+
+# Machine learning & embeddings
+scikit-learn
+torch
+transformers
+
+# Batch‐effect correction
+pycombat
+
+# Visualization
+matplotlib
+matplotlib-venn
+seaborn
+plotly
+upsetplot
+
+# Utility & progress
+tqdm
+inmoose
+
+# Notebook environment
+jupyter
+notebook
+ipykernel
