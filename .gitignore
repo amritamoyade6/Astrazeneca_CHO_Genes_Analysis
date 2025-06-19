@@ -1,0 +1,7 @@
+# Ignore processed data CSVs and FIMO outputs
+data/processed/
+data/processed_outputs.zip
+
+# macOS Finder metadata
+.DS_Store
+**/.DS_Store

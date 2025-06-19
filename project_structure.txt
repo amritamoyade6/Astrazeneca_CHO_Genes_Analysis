@@ -1,0 +1,63 @@
+.
+├── data
+│   ├── processed
+│   │   ├── cds_constitutive.fasta
+│   │   ├── cds_dnabert_embeddings.csv
+│   │   ├── cds_final.fasta
+│   │   ├── fimo_output_cds
+│   │   ├── fimo_output_utr3
+│   │   ├── fimo_output_utr5
+│   │   ├── meme_output_cds
+│   │   ├── meme_output_utr3
+│   │   ├── meme_output_utr5
+│   │   ├── utr3_constitutive.fasta
+│   │   ├── utr3_dnabert_embeddings.csv
+│   │   ├── utr3_final.fasta
+│   │   ├── utr5_constitutive.fasta
+│   │   ├── utr5_dnabert_embeddings.csv
+│   │   └── utr5_final.fasta
+│   └── raw
+│       ├── 3UTR_sequences.fasta
+│       ├── 5UTR_sequences.fasta
+│       ├── CDS_sequences.fasta
+│       ├── expression_counts.txt
+│       ├── expression.txt
+│       ├── FILE_DESCRIPTION.txt
+│       └── MANIFEST.txt
+├── figures
+│   ├── Batch_Wise_Variance_In_Gene_Expression.png
+│   ├── CDS_Sequence_Length_Distribution.png
+│   ├── Density_Heatmap_Gene_Spearman_Correlation_and_Significance.png
+│   ├── Feature_Importance_RF-Regressor_Vs_RF-Classifier.png
+│   ├── GC_Content_Distribution.png
+│   ├── Gene_Ranking_Feature_Importance.png
+│   ├── PCA_Batch_Effect_Detection.png
+│   ├── PCA_Before_After_Combat_Batch_Correction.png
+│   ├── QQ_Plot_3UTR_Sequence_Length.png
+│   ├── QQ_Plot_5UTR_Sequence_Length.png
+│   ├── QQ_Plot_CDS_Sequence_Length.png
+│   ├── Spearman_Vs_Kendall_Correlation.png
+│   ├── Top_10_Most_Frequent_FIMO_Motifs.png
+│   ├── Top_10_Most_Important_Genes_RF_Classifier.png
+│   ├── Top_10_Most_Important_Genes_RF_Regressor.png
+│   ├── Top_20_Downregulating_Motifs.png
+│   ├── Top_20_Genes_Spearman_Correlation.png
+│   ├── Top_20_Upregulating_Motifs.png
+│   ├── UseSet Plot.png
+│   ├── UTR3_Sequence_Length_Distribution.png
+│   ├── UTR5_Sequence_Length_Distribution.png
+│   └── Volcano_Plot_Motif_Influence.png
+├── notebooks
+│   └── Astrazeneca_MiniProject.ipynb
+├── project_structure.txt
+├── report
+│   ├── Astrazeneca_Project.pdf
+│   └── Astrazeneca.pptx
+└── results
+    ├── ranking_1_regressor_importance.csv
+    ├── ranking_2_spearman_regressor_composite.csv
+    ├── ranking_3_classifier_importance.csv
+    ├── ranking_4_final_composite.csv
+    └── top50_gene_overlap_summary.csv
+
+14 directories, 47 files
